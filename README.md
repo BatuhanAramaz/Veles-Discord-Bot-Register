@@ -118,4 +118,3 @@ Botun ayarlarını `config.json` dosyasından özelleştirebilirsiniz:
 <p align="center">
   Geliştirici: <a href="https://github.com/BatuhanAramaz">Batuhan Aramaz</a> 👨‍💻
 </p>
-```
