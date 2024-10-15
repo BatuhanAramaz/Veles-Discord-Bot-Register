@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="#özellikler">Özellikler</a> •
-  <a href="#kurulum">Kurulum</a> •
-  <a href="#kullanım">Kullanım</a> •
-  <a href="#konfigürasyon">Konfigürasyon</a> •
-  <a href="#katkıda-bulunma">Katkıda Bulunma</a> •
+  <a href="#-özellikler">Özellikler</a> •
+  <a href="#-kurulum">Kurulum</a> •
+  <a href="#-kullanım">Kullanım</a> •
+  <a href="#%EF%B8%8F-konfigürasyon">Konfigürasyon</a> •
+  <a href="#-katkıda-bulunma">Katkıda Bulunma</a>
 </p>
 
 ---
@@ -110,8 +110,6 @@ Botun ayarlarını `config.json` dosyasından özelleştirebilirsiniz:
 3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: XYZ'`)
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request oluşturun
-
-
 
 ---
 
